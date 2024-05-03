@@ -13,7 +13,7 @@ libraries are also discovered, and an attempt to optimize hyperparameters is mad
 
 The files in this repository primarily came from cloning AMII's repository for this competition.  Modifications to any notebooks, etc, were to be pushed to my own repo (this one). 
 Many of the files found here are therefore not my creations.  I have so far created getting_started_development.ipynb, predictably, from getting_started.ipynb, which was kindly 
-provided by AMII.  Files from other folders are required to run the code, such as environment configuration files, so it was simplest to simply keep the entire repo and add to the 
+provided by AMII.  Files from other folders are required to run the code, such as environment configuration files, so it was simplest to keep the entire repo and add to the 
 files once they resided on my own repo.  
 
 The intention is to clean up the notebook files once a few approaches have shown some success.  The "...development" notebook is a first pass at basic RL libraries and methods.
